@@ -1,0 +1,22 @@
+# Données
+data/
+bdd backup/
+
+# Brouillons
+sandbox/
+
+# Environnement Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
+Thumbs.db
